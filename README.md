@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Niko
+
+## About Me 
+I'm a UCSC student majoring in Computer Science exploring a linguistics minor, looking to learn how to do ML/NLP stuff with that. I also work in student advocacy on my campus.
+
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/nikolasnp/) 
+
+
 
 <!--
 **nikopSC/nikopSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
